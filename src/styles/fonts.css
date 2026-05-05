@@ -1,0 +1,12 @@
+/* Yerk Regular - Para el título principal FILMARIO */
+@import url("https://use.typekit.net/gvo5hsa.css");
+
+/* Sneakers Pro Medium - Para títulos de películas */
+@font-face {
+  font-family: "Sneakers Pro";
+  src: url("https://fonts.cdnfonts.com/s/16278/SneakersPro-Medium.woff")
+    format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
